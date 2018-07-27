@@ -1,0 +1,757 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+<title>MOVERS REVIEW</title>
+<link rel="stylesheet" type="text/css" href="custom-style.css">
+<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="loaders.css">
+
+</head>
+
+<body>
+
+<div class="loader loader-bg">
+<div class="loader-inner ball-clip-rotate-pulse">
+<div></div>
+<div></div>
+</div>
+</div>
+
+<section class="intro">
+<div class="container-fluid">
+<nav class="navbar navbar-transparent" data-spy="affix" data-offset-top="60">
+<div class="container">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+<a class="navbar-brand" href="#"><img src="img/logo-light.png"></a>
+</div>
+<div id="navbar" class="navbar-collapse collapse">
+<ul class="nav navbar-nav navbar-right">
+<li class="active"><a href="#home">HOME</a></li>
+<li><a href="#service">Services</a></li>
+<li><a href="#faq">FAQ</a></li>
+<!--
+<li class="dropdown">
+<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+<ul class="dropdown-menu">
+<li><a href="#">Action</a></li>
+<li><a href="#">Another action</a></li>
+<li><a href="#">Something else here</a></li>
+<li role="separator" class="divider"></li>
+<li class="dropdown-header">Nav header</li>
+<li><a href="#">Separated link</a></li>
+<li><a href="#">One more separated link</a></li>
+</ul>
+</li>-->
+<li><a href="#getacall" >GET A CALL</a></li>
+<li><a href="#getacall" class="btn btn-default">Get a QUOTE</a></li>
+</ul>
+</div>
+</div>
+</nav>
+<div class="banner-caption text-center" id="home">
+<h1>Fast and Reliable</h1>
+<p>With over 25+ years of experience in Logistics, we offer solutions to move homes,
+offices or your favorite  globally, 
+or within India! No hidden costs - we belive in fair dealings and transparency!</p>
+<div class="action-box"><a href="#getacall" class="btn btn-primary">Call Now</a><a href="#getacall" class="btn btn-primary">Book Order</a></div>
+</div>
+</div>
+</section>
+<section class="quick-services" id="service">
+<div class="container">
+<div class="row">
+<div class="col-md-6 col-sm-6">
+<div class="box text-center">
+<img src="img/home.jpg" class="img-responsive">
+<h2>HOME</h2>
+<p>Moving homes, internationally?  We will make the process smooth.</p>
+<a href="#getacall" class="btn btn-primary" style="color:white;">Get Quote</a>
+</div>
+</div>
+<div class="col-md-6 col-sm-6">
+<div class="box text-center">
+<img src="img/office.jpg" class="img-responsive">
+<h2>OFFICE</h2>
+<p>Relocating your office to another town or locality? Let us help.</p>
+<a href="#getacall" class="btn btn-primary" style="color:white;">Get Quote</a>
+</div>
+</div>
+<!--<div class="col-md-4 col-sm-4">
+<div class="box text-center">
+<img src="img/pets.jpg" class="img-responsive">
+<h2>PETS</h2>
+<p>Want to move your favorite pets? Need help. Yes, we can help.</p>
+<a href="#getacall">Get Quote</a>
+</div>
+</div>-->
+</div>
+<div class="row secondary-content">
+<h2 class="text-center">Heading goes here<small>Our numbers talk and well portray our strength. But don't often tell the whole story, though. We work to ensure</small></h2>
+<div class="col-md-5 col-md-offset-1">
+<ul>
+ <li>Free visit to evaluate and send you a quotation</li>
+<li>Fair pricing- choose from 2 or more service providers</li>
+<li>Choose the best in that segment- view records and testimonials</li>
+<li>No hidden costs- transparent pricing structure</li>
+<li>End to end solutions- door to door- or as you need</li>
+</ul>
+</div>
+<div class="col-md-5">
+<blockquote>
+
+    Fair Pricing<br>
+    Transparent Processes<br>
+    Safe movements<br>
+    Trainied Staff<br>
+    International and local collaborations<br>
+    Lastly, there is nothing that can't be moved!<br>
+
+</blockquote>
+</div>
+</div>
+</div>
+</section>
+<section class="about-section" id="about">
+<div class="container">
+<div class="row">
+<div class="col-md-5">
+<h2>About our company</h2>
+<p>We have moved 1000+ offices and 2000+ homes in 58 countries.
+Our strength lies in end to end relocation solutions 
+and we work closely with local partners and
+Government agencies to ensure you get the fastest service 
+and a transparent pricing model, without any shocks mid-way during the movement. </p>
+<p>Reach us and we will offer you at least 2-3 movers so you can make an informed choice.</p>
+
+</div>
+<div class="col-md-6 pull-right image-sec">
+<img src="https://grafreez.com/wp-content/temp_demos/logistic/img/about-banner.jpg" class="img-responsive">
+</div>
+</div>
+</div>
+</section>
+<section class="accordion-sec" id="faq">
+<div class="container">
+<h2 class="text-center">Do you have any questions ?
+<small></small></h2>
+<div class="row">
+<div class="col-md-6 accordion-box col-md-offset-1">
+<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="headingOne">
+<h4 class="panel-title">
+<a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+ You say you can provide me options for movers. How?<span class="pull-right"><i class="fa fa-plus-circle" aria-hidden="true"></i></span>
+</a>
+</h4>
+</div>
+<div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
+<div class="panel-body">
+We collaborate with a number of local and international movers.
+Our transparent systems ensure you connect with them, 
+understand their strengths and pricing and them make an informed decision.
+We are all for giving you choices. 
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="headingTwo">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+How safe are my goods with you during movements?<span class="pull-right"><i class="fa fa-plus-circle" aria-hidden="true"></i></span>
+</a>
+</h4>
+</div>
+<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+<div class="panel-body">
+We care for your goods. An initial assessment of the goods is what we start with.
+Our team is trained to take of your goods enroute till they reach the destination
+and are unpacked. Rest assured, we have done this thousands of times.
+</div>
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-heading" role="tab" id="headingThree">
+<h4 class="panel-title">
+<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+ Why are not the cheapest?<span class="pull-right"><i class="fa fa-plus-circle" aria-hidden="true"></i></span>
+</a>
+</h4>
+</div>
+<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+<div class="panel-body">
+Well, there are two ways to answer this.
+We can provide more affordable options,
+if you so desire. The options are transparent,
+and we don't hide anything from you.
+There are no shocks mid way during the process, so you are at peace!
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-4 panel-box pull">
+<div class="panel panel-default">
+<div class="panel-body">
+<i class="fa fa-shield" aria-hidden="true"></i>
+<h4>Safe and Secure</h4>
+<p>We care for your goods at every step</p>
+
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-body">
+<i class="fa fa-money" aria-hidden="true"></i>
+<h4>Value of Money</h4>
+<p>We showcase the best options there are</p>
+
+</div>
+</div>
+<div class="panel panel-default">
+<div class="panel-body">
+<i class="fa fa-life-ring" aria-hidden="true"></i>
+<h4>24/7 Spport Team</h4>
+<p>We are available when you need to talk</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="form-banner" id="getacall">
+<div class="container">
+<div class="row">
+<div class="col-md-6 testimonial-container">
+<h2 class="text-center">Coustomer Testimonials</h2>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+
+<ol class="carousel-indicators">
+<li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+<li data-target="#carousel-example-generic" data-slide-to="1"></li>
+<li data-target="#carousel-example-generic" data-slide-to="2"></li>
+</ol>
+
+<div class="carousel-inner" role="listbox">
+<div class="item active">
+<div class="profile-circle text-center"><img class="img-circle" src="img/img1.png"></div>
+<blockquote>
+<p><em>"I had been trying hard to come into contact with a reliable movers review  to move my entire home but in vain. Asked my colleagues and family members but no success. Then a friend of mine asked to contact moversreview. I contact the same and submitted my house shifting request. Luckily, I got such cost-effective quotes that were simply beyond compare. The services provided by the movers review were safe and timely. At last, I am satisfied."</em></p>
+<footer>Arpit Rana</footer>
+</blockquote>
+</div>
+<div class="item">
+<div class="profile-circle text-center"><img class="img-circle" src="img/img2.png"></div>
+<blockquote>
+<p><em>"I have to say that movers review is truly an online source for providing the best and reasonable quotes to the customers who seek reliable relocation services. It lets the customers contact the right movers review and hire their secure and affordable services."</em></p>
+<footer>Riya Tyagi</footer>
+</blockquote>
+</div>
+<div class="item">
+<div class="profile-circle text-center"><img class="img-circle" src="img/img3.png"></div>
+<blockquote>
+<p><em>"I must comment that movers review is a truly trusted source that provides the competitive quotes to the end users from all across India. It acts as a bridge between the customers and the movers in their area."</em></p>
+<footer>Chirag Jain</footer>
+</blockquote>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-5 pull-right">
+<form class="form-box" action="#" method="post">
+<h3 class="text-center">Get your first quote</h3>
+<div class="form-group">
+<div class="col-md-12">
+<input type="text" class="form-control" name="name" id="" placeholder="Name" required>
+</div>
+</div>
+<div class="form-group">
+<div class="col-md-12">
+<input type="text" class="form-control" name="email" minlength="3" maxlength="64" required="" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,3}$" aria-required="true" id="exampleInputPassword1" placeholder="Email" required>
+</div>
+</div>
+<div class="form-group">
+<div class="col-md-12">
+<input type="text" class="form-control" id="" placeholder="Mobile Number" name="phone" oninput="this.value=this.value.replace(/[^0-9.]/g,'')"  maxlength="10" required="" pattern="[7-9][0-9]{9}" aria-required="true" required>
+</div>
+</div>
+<div class="form-group">
+      <div class="col-md-4">
+ <label class="" style="font-size:15px">I WANT TO RELOCATE</label>
+</div>
+<div class="col-md-8">
+    <label class="radio-inline">
+      <input type="radio" name="wantstorelocate" value="Home" required>HOME &nbsp &nbsp
+    </label>
+<label class="radio-inline">
+      <input type="radio" name="wantstorelocate" value="Offices" required >OFFICES &nbsp &nbsp
+    </label>
+   <!-- <label class="radio-inline">
+      <input type="radio" name="wantstorelocate" value="Pets" required>PETS
+    </label> -->
+</div>
+</div>
+<div class="form-group">
+      <div class="col-md-4">
+ <label class="" style="font-size:15px">FROM INDIA TO</label>
+</div>
+<div class="col-md-8">
+    <label class="radio-inline">
+      <input type="radio" name="within" value="India" onclick="javascript:yesnoCheck(); Check();"  id="yesCheck" required>WITHIN INDIA &nbsp 
+    </label>
+    <label class="radio-inline">
+      <input type="radio" name="within" value="Outside" onclick="javascript:Check(); yesnoCheck();"  id="noCheck" required>OUTSIDE INDIA &nbsp
+    </label>
+</div>
+</div>
+<script>
+function yesnoCheck() {
+    if (document.getElementById('yesCheck').checked) {
+        document.getElementById('ifYes').style.visibility = 'visible';
+    }
+    else document.getElementById('ifYes').style.visibility = 'hidden';
+
+}
+function Check() {
+    if (document.getElementById('noCheck').checked) {
+        document.getElementById('noYes').style.visibility = 'visible';
+    }
+    else document.getElementById('noYes').style.visibility = 'hidden';
+
+}
+    
+</script>
+   <div id="ifYes" style="visibility:hidden" class="form-group">
+       <div class="col-lg-1 col-md-1"></div>
+        <div class="col-lg-5 col-md-5">
+          <label for="sel1">From:</label>
+      <select class="form-control" id="sel1" name="from0">
+
+<option value="">---Select State---</option>
+<option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+<option value="Assam">Assam</option>
+<option value="Bihar">Bihar</option>
+<option value="Chandigarh">Chandigarh</option>
+<option value="Chhattisgarh">Chhattisgarh</option>
+<option value="Dadra and Nagar Haveli">Dadra and Nagar Haveli</option>
+<option value="Daman and Diu">Daman and Diu</option>
+<option value="Delhi">Delhi</option>
+<option value="Goa">Goa</option>
+<option value="Gujarat">Gujarat</option>
+<option value="Haryana">Haryana</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Jammu and Kashmir">Jammu and Kashmir</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Karnataka">Karnataka</option>
+<option value="Kerala">Kerala</option>
+<option value="Lakshadweep">Lakshadweep</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Maharashtra">Maharashtra</option>
+<option value="Manipur">Manipur</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Orissa">Orissa</option>
+<option value="Pondicherry">Pondicherry</option>
+<option value="Punjab">Punjab</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Sikkim">Sikkim</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Tripura">Tripura</option>
+<option value="Uttaranchal">Uttaranchal</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="West Bengal">West Bengal</option>
+<option value="other">Other</option>
+</select>
+        </div>
+         <div class="col-lg-1 col-md-1"></div>
+                 <div class="col-lg-5 col-md-5">
+          <label for="sel1">To:</label>
+      <select class="form-control" id="sel1" name="toyour">
+
+<option value="">---Select State---</option>
+<option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+<option value="Assam">Assam</option>
+<option value="Bihar">Bihar</option>
+<option value="Chandigarh">Chandigarh</option>
+<option value="Chhattisgarh">Chhattisgarh</option>
+<option value="Dadra and Nagar Haveli">Dadra and Nagar Haveli</option>
+<option value="Daman and Diu">Daman and Diu</option>
+<option value="Delhi">Delhi</option>
+<option value="Goa">Goa</option>
+<option value="Gujarat">Gujarat</option>
+<option value="Haryana">Haryana</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Jammu and Kashmir">Jammu and Kashmir</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Karnataka">Karnataka</option>
+<option value="Kerala">Kerala</option>
+<option value="Lakshadweep">Lakshadweep</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Maharashtra">Maharashtra</option>
+<option value="Manipur">Manipur</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Orissa">Orissa</option>
+<option value="Pondicherry">Pondicherry</option>
+<option value="Punjab">Punjab</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Sikkim">Sikkim</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Tripura">Tripura</option>
+<option value="Uttaranchal">Uttaranchal</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="West Bengal">West Bengal</option>
+
+</select>
+        </div>
+        </div>
+     <div id="noYes" style="visibility:hidden;margin-top:-90px;" class="form-group" >
+          <div class="col-lg-1 col-md-1"></div>
+             <div class="col-lg-5 col-md-5">
+          <label for="sel1">From:</label>
+      <select class="form-control" id="sel1" name="from" >
+
+<option value="">---Select State---</option>
+<option value="Andaman and Nicobar Islands">Andaman and Nicobar Islands</option>
+<option value="Andhra Pradesh">Andhra Pradesh</option>
+<option value="Arunachal Pradesh">Arunachal Pradesh</option>
+<option value="Assam">Assam</option>
+<option value="Bihar">Bihar</option>
+<option value="Chandigarh">Chandigarh</option>
+<option value="Chhattisgarh">Chhattisgarh</option>
+<option value="Dadra and Nagar Haveli">Dadra and Nagar Haveli</option>
+<option value="Daman and Diu">Daman and Diu</option>
+<option value="Delhi">Delhi</option>
+<option value="Goa">Goa</option>
+<option value="Gujarat">Gujarat</option>
+<option value="Haryana">Haryana</option>
+<option value="Himachal Pradesh">Himachal Pradesh</option>
+<option value="Jammu and Kashmir">Jammu and Kashmir</option>
+<option value="Jharkhand">Jharkhand</option>
+<option value="Karnataka">Karnataka</option>
+<option value="Kerala">Kerala</option>
+<option value="Lakshadweep">Lakshadweep</option>
+<option value="Madhya Pradesh">Madhya Pradesh</option>
+<option value="Maharashtra">Maharashtra</option>
+<option value="Manipur">Manipur</option>
+<option value="Meghalaya">Meghalaya</option>
+<option value="Mizoram">Mizoram</option>
+<option value="Nagaland">Nagaland</option>
+<option value="Orissa">Orissa</option>
+<option value="Pondicherry">Pondicherry</option>
+<option value="Punjab">Punjab</option>
+<option value="Rajasthan">Rajasthan</option>
+<option value="Sikkim">Sikkim</option>
+<option value="Tamil Nadu">Tamil Nadu</option>
+<option value="Tripura">Tripura</option>
+<option value="Uttaranchal">Uttaranchal</option>
+<option value="Uttar Pradesh">Uttar Pradesh</option>
+<option value="West Bengal">West Bengal</option>
+
+</select>
+        </div>
+         <div class="col-lg-1 col-md-1"></div>
+                         <div class="col-lg-5 col-md-5">
+          <label for="sel1">To:</label>
+      <select class="form-control" id="sel1" name="toyours" >
+
+<option value="">---Select---</option>
+<option value="Afghanistan">Afghanistan</option>
+	<option value="Albania">Albania</option>
+	<option value="Algeria">Algeria</option>
+	<option value="Andorra">Andorra</option>
+	<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+	<option value="Argentina">Argentina</option>
+	<option value="Armenia">Armenia</option>
+	<option value="Australia">Australia</option>
+	<option value="Austria">Austria</option>
+	<option value="Azerbaijan">Azerbaijan</option>
+	<option value="Bahamas">Bahamas</option>
+	<option value="Bahrain">Bahrain</option>
+	<option value="Bangladesh">Bangladesh</option>
+	<option value="Barbados">Barbados</option>
+	<option value="Belarus">Belarus</option>
+	<option value="Belgium">Belgium</option>
+	<option value="Belize">Belize</option>
+	<option value="Benin">Benin</option>
+	<option value="Bhutan">Bhutan</option>
+	<option value="Bolivia">Bolivia</option>
+	<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+	<option value="Botswana">Botswana</option>
+	<option value="Brazil">Brazil</option>
+	<option value="Brunei">Brunei</option>
+	<option value="Bulgaria">Bulgaria</option>
+	<option value="Burkina Faso">Burkina Faso</option>
+	<option value="Burundi">Burundi</option>
+	<option value="Cambodia">Cambodia</option>
+	<option value="Cameroon">Cameroon</option>
+	<option value="Canada">Canada</option>
+	<option value="Cape Verde">Cape Verde</option>
+	<option value="Central African Republic">Central African Republic</option>
+	<option value="Chad">Chad</option>
+	<option value="Chile">Chile</option>
+	<option value="China">China</option>
+	<option value="Colombia">Colombia</option>
+	<option value="Comoros">Comoros</option>
+	<option value="Congo">Congo</option>
+	<option value="Costa Rica">Costa Rica</option>
+	<option value="Cote d'Ivoire">Cote d'Ivoire</option>
+	<option value="Croatia">Croatia</option>
+	<option value="Cuba">Cuba</option>
+	<option value="Cyprus">Cyprus</option>
+	<option value="Czech Republic">Czech Republic</option>
+	<option value="Denmark">Denmark</option>
+	<option value="Djibouti">Djibouti</option>
+	<option value="Dominica">Dominica</option>
+	<option value="Dominican Republic">Dominican Republic</option>
+	<option value="East Timor">East Timor</option>
+	<option value="Ecuador">Ecuador</option>
+	<option value="Egypt">Egypt</option>
+	<option value="El Salvador">El Salvador</option>
+	<option value="Equatorial Guinea">Equatorial Guinea</option>
+	<option value="Eritrea">Eritrea</option>
+	<option value="Estonia">Estonia</option>
+	<option value="Ethiopia">Ethiopia</option>
+	<option value="Fiji">Fiji</option>
+	<option value="Finland">Finland</option>
+	<option value="France">France</option>
+	<option value="Gabon">Gabon</option>
+	<option value="Gambia">Gambia</option>
+	<option value="Georgia">Georgia</option>
+	<option value="Germany">Germany</option>
+	<option value="Ghana">Ghana</option>
+	<option value="Greece">Greece</option>
+	<option value="Grenada">Grenada</option>
+	<option value="Guatemala">Guatemala</option>
+	<option value="Guinea">Guinea</option>
+	<option value="Guinea-Bissau">Guinea-Bissau</option>
+	<option value="Guyana">Guyana</option>
+	<option value="Haiti">Haiti</option>
+	<option value="Honduras">Honduras</option>
+	<option value="Hong Kong">Hong Kong</option>
+	<option value="Hungary">Hungary</option>
+	<option value="Iceland">Iceland</option>
+	<option value="India">India</option>
+	<option value="Indonesia">Indonesia</option>
+	<option value="Iran">Iran</option>
+	<option value="Iraq">Iraq</option>
+	<option value="Ireland">Ireland</option>
+	<option value="Israel">Israel</option>
+	<option value="Italy">Italy</option>
+	<option value="Jamaica">Jamaica</option>
+	<option value="Japan">Japan</option>
+	<option value="Jordan">Jordan</option>
+	<option value="Kazakhstan">Kazakhstan</option>
+	<option value="Kenya">Kenya</option>
+	<option value="Kiribati">Kiribati</option>
+	<option value="North Korea">North Korea</option>
+	<option value="South Korea">South Korea</option>
+	<option value="Kuwait">Kuwait</option>
+	<option value="Kyrgyzstan">Kyrgyzstan</option>
+	<option value="Laos">Laos</option>
+	<option value="Latvia">Latvia</option>
+	<option value="Lebanon">Lebanon</option>
+	<option value="Lesotho">Lesotho</option>
+	<option value="Liberia">Liberia</option>
+	<option value="Libya">Libya</option>
+	<option value="Liechtenstein">Liechtenstein</option>
+	<option value="Lithuania">Lithuania</option>
+	<option value="Luxembourg">Luxembourg</option>
+	<option value="Macedonia">Macedonia</option>
+	<option value="Madagascar">Madagascar</option>
+	<option value="Malawi">Malawi</option>
+	<option value="Malaysia">Malaysia</option>
+	<option value="Maldives">Maldives</option>
+	<option value="Mali">Mali</option>
+	<option value="Malta">Malta</option>
+	<option value="Marshall Islands">Marshall Islands</option>
+	<option value="Mauritania">Mauritania</option>
+	<option value="Mauritius">Mauritius</option>
+	<option value="Mexico">Mexico</option>
+	<option value="Micronesia">Micronesia</option>
+	<option value="Moldova">Moldova</option>
+	<option value="Monaco">Monaco</option>
+	<option value="Mongolia">Mongolia</option>
+	<option value="Montenegro">Montenegro</option>
+	<option value="Morocco">Morocco</option>
+	<option value="Mozambique">Mozambique</option>
+	<option value="Myanmar">Myanmar</option>
+	<option value="Namibia">Namibia</option>
+	<option value="Nauru">Nauru</option>
+	<option value="Nepal">Nepal</option>
+	<option value="Netherlands">Netherlands</option>
+	<option value="New Zealand">New Zealand</option>
+	<option value="Nicaragua">Nicaragua</option>
+	<option value="Niger">Niger</option>
+	<option value="Nigeria">Nigeria</option>
+	<option value="Norway">Norway</option>
+	<option value="Oman">Oman</option>
+	<option value="Pakistan">Pakistan</option>
+	<option value="Palau">Palau</option>
+	<option value="Panama">Panama</option>
+	<option value="Papua New Guinea">Papua New Guinea</option>
+	<option value="Paraguay">Paraguay</option>
+	<option value="Peru">Peru</option>
+	<option value="Philippines">Philippines</option>
+	<option value="Poland">Poland</option>
+	<option value="Portugal">Portugal</option>
+	<option value="Puerto Rico">Puerto Rico</option>
+	<option value="Qatar">Qatar</option>
+	<option value="Romania">Romania</option>
+	<option value="Russia">Russia</option>
+	<option value="Rwanda">Rwanda</option>
+	<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+	<option value="Saint Lucia">Saint Lucia</option>
+	<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+	<option value="Samoa">Samoa</option>
+	<option value="San Marino">San Marino</option>
+	<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+	<option value="Saudi Arabia">Saudi Arabia</option>
+	<option value="Senegal">Senegal</option>
+	<option value="Serbia and Montenegro">Serbia and Montenegro</option>
+	<option value="Seychelles">Seychelles</option>
+	<option value="Sierra Leone">Sierra Leone</option>
+	<option value="Singapore">Singapore</option>
+	<option value="Slovakia">Slovakia</option>
+	<option value="Slovenia">Slovenia</option>
+	<option value="Solomon Islands">Solomon Islands</option>
+	<option value="Somalia">Somalia</option>
+	<option value="South Africa">South Africa</option>
+	<option value="Spain">Spain</option>
+	<option value="Sri Lanka">Sri Lanka</option>
+	<option value="Sudan">Sudan</option>
+	<option value="Suriname">Suriname</option>
+	<option value="Swaziland">Swaziland</option>
+	<option value="Sweden">Sweden</option>
+	<option value="Switzerland">Switzerland</option>
+	<option value="Syria">Syria</option>
+	<option value="Taiwan">Taiwan</option>
+	<option value="Tajikistan">Tajikistan</option>
+	<option value="Tanzania">Tanzania</option>
+	<option value="Thailand">Thailand</option>
+	<option value="Togo">Togo</option>
+	<option value="Tonga">Tonga</option>
+	<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+	<option value="Tunisia">Tunisia</option>
+	<option value="Turkey">Turkey</option>
+	<option value="Turkmenistan">Turkmenistan</option>
+	<option value="Tuvalu">Tuvalu</option>
+	<option value="Uganda">Uganda</option>
+	<option value="Ukraine">Ukraine</option>
+	<option value="United Arab Emirates">United Arab Emirates</option>
+	<option value="United Kingdom">United Kingdom</option>
+	<option value="United States">United States</option>
+	<option value="Uruguay">Uruguay</option>
+	<option value="Uzbekistan">Uzbekistan</option>
+	<option value="Vanuatu">Vanuatu</option>
+	<option value="Vatican City">Vatican City</option>
+	<option value="Venezuela">Venezuela</option>
+	<option value="Vietnam">Vietnam</option>
+	<option value="Yemen">Yemen</option>
+	<option value="Zambia">Zambia</option>
+	<option value="Zimbabwe">Zimbabwe</option>
+
+
+</select>
+        </div>
+         
+          
+       
+       
+    </div>
+
+
+
+
+<div class="form-group">
+<div class="col-md-12">
+<button type="submit" name="submit" class="btn btn-lg btn-primary btn-block">Submit</button>
+</div>
+</div>
+</form>
+
+
+</div>
+</div>
+</div>
+</section>
+
+ <?php
+             extract($_REQUEST);
+if (isset($submit))
+{
+$to = "vineet@conceptualise.in";
+
+$email_subject = "MOVERS contact form";
+
+$email_body = "You have received a new message. ".
+
+" Here are the details:\n Name: $name \n ".
+
+"Email: $email\n". "\nPhone:$phone\n"."\nWant To Relocate:$wantstorelocate\n"."\nFROM INDIA TO:$within\n"."\nFROM:$from0.$from\n"."\nTo:$toyour.$toyours\n";
+
+$headers = "From: $email\n";
+
+mail($to,$email_subject,$email_body,$headers);
+echo "<script>window.alert('Thanks WE Will Call You Soon')</script>";
+
+}	
+				?>
+
+
+
+<footer style="">
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+<img src="img/logo-light.png" class="footer-logo">
+</div>
+<div class="col-md-2 text-center">
+<i class="fa fa-map"></i><br>
+<div>J9/13, Rajouri Garden Extension Road<br>
+Rajouri Garden Extension, New Delhi, Delhi</div>
+</div>
+<div class="col-md-2 text-center">
+<i class="fa fa-mobile" aria-hidden="true"></i><br>
+<div>9990158777<br></div>
+</div>
+<div class="col-md-2 text-center">
+<i class="fa fa-envelope"></i><br>
+<div>
+<a href="#"><!--<span class="__cf_email__" data-cfemail="c8bba9a4adbb88b1a7bdbaaba7a5b8a9a6b1e6aba7a5">vineet@gmail.com</span>-->vineet@conceptualise.in</a>
+<a href="#"></a>
+</div>
+</div>
+<!--<div class="col-md-3">
+<div class="footer-social">
+<a href="#"><i class="fa fa-linkedin"></i></a>
+<a href="#"><i class="fa fa-facebook"></i></a>
+<a href="#"><i class="fa fa-twitter"></i></a>
+<a href="#"><i class="fa fa-dribbble"></i></a>
+<a href="#"><i class="fa fa-google-plus"></i></a>
+<a href="#"><i class="fa fa-instagram"></i></a>
+</div>
+</div>-->
+</div>
+</div>
+</footer>
+<script data-cfasync="false" src="https://grafreez.com/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script src="https://grafreez.com/wp-content/temp_demos/logistic/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+<script src="https://grafreez.com/wp-content/temp_demos/logistic/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://grafreez.com/wp-content/temp_demos/logistic/js/core.js" type="text/javascript"></script>
+</body>
+</html>
